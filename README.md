@@ -1,1 +1,1 @@
-Exercícios do URI Online Judge
+|Exercícios do URI Online Judge|
